@@ -1,0 +1,15 @@
+{
+  "name": "mineflayer-afk-telegram",
+  "version": "1.1.0",
+  "description": "Telegram orqali boshqariladigan Mineflayer AFK va tarvuz fermasi botlari",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.37.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "node-telegram-bot-api": "^0.66.0",
+    "vec3": "^0.2.0"
+  }
+}
